@@ -1,6 +1,5 @@
 # Ephraim Guo
 
-**Contact:** +65 9880 3289
 
 ---
 
