@@ -119,7 +119,3 @@ Diploma in Aerospace Engineering (Apr 2012 – Apr 2015)
 - Certified AWS Solution Architect Associate – SAA-C03
 - Certified Scrum Master – Scrum Alliance
 
-## Referee
-
-- Frankie Yan: frankie.yan@jpmchase.com
-- Antoine: antoine.gutzwiller@jpmchase.com
